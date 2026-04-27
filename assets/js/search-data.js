@@ -73,7 +73,7 @@ ninja.data = [{
     },{id: "news-nothing-here",
           title: 'Nothing here.',
           description: "",
-          section: "News",},{id: "news-bugs-of-this-website-have-been-fixed-i-am-currently-working-on-shimura-varieties-arthur-packets-endoscopy-theory-i-will-share-some-small-results-that-helps-me-understand-the-total-theory",
+          section: "News",},{id: "news-bugs-of-this-website-have-been-fixed-i-am-currently-working-on-shimura-varieties-arthur-packets-endoscopy-theory-i-will-share-some-small-results-that-helps-me-understand-the-total-theory-actually-small-results-are-just-some-notes",
           title: 'Bugs of this website have been fixed. I am currently working on Shimura...',
           description: "",
           section: "News",},{id: "projects-吉林大学文件杂项",
