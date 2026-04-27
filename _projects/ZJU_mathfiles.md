@@ -11,12 +11,9 @@ related_publications: false
 
 ### My Notes
 
-- <ul>
-    <li>Transfer factors for Endoscopy theory.<a href="https://platoeinsyu.github.io/assets/pdf/Projects/ZJU_mathfiles/Transfer_factor.pdf">Transfer factor</a></li>
-</ul>
+Transfer factors for Endoscopy theory. [Transfer factor](https://tianzeyumath.github.io/assets/pdf/Projects/ZJU_mathfiles/Transfer_factor.pdf)
 
 ### Translations of Lecture Notes
 
-<ul>
-    <li>Motif et Forms Automorphes，Laurent Clozel, English Version.<a href="https://platoeinsyu.github.io/assets/pdf/Projects/ZJU_mathfiles/Motif_et_Forms_Automorphes.pdf">Motif et Forms Automorphes</a></li>
-</ul>
+Motif et Forms Automorphes，Laurent Clozel, English Version. [Motif et Forms Automorphes](https://tianzeyumath.github.io/assets/pdf/Projects/ZJU_mathfiles/Motif_et_Forms_Automorphes.pdf)
+
